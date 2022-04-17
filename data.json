@@ -1,0 +1,50 @@
+{
+    "projects":[
+        {
+        "project_name": "Quote Generator",
+        "id": "0",
+        "description": "Website that generates random quote on button click",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "site_link": "https://robgentry999.github.io/advice-generator/",
+        "github_link": "https://github.com/robgentry999/advice-generator",
+        "image_urls": ["/static/images/quote_generator_1.png", "/static/images/quote_generator_2.png"]
+        },
+        {
+        "project_name": "Wheel Of Success",
+        "id": "1",
+        "description": "Game website similar to hangman, player guesses letters and after 5 misses game ends",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "site_link": "https://robgentry999.github.io/project-6/",
+        "github_link": "https://github.com/robgentry999/github-treehouse-project-6/blob/main/treehouse-project-6/index.html",
+        "image_urls": ["/static/images/wheelgame_play.png", "/static/images/wheelgame_start.png"]
+        },
+        {
+        "project_name": "Employee Directory",
+        "id": "2",
+        "description": "Website that generates random quote on button click",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "site_link": "https://robgentry999.github.io/project-8/",
+        "github_link": "https://github.com/robgentry999/github-treehouse-project-8/blob/main/treehouse-project-8/index.html",
+        "image_urls": ["static/images/employee_directory_1.png","/static/images/employee_directory_2.png"]
+        },
+        {
+        "project_name": "WebApp Dashboard",
+        "id": "3",
+        "description": "Website that generates random quote on button click",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "site_link": "https://robgentry999.github.io/project-7/",
+        "github_link": "https://github.com/robgentry999/github-treehouse-project-7/blob/main/treehouse-project-7/index.html",
+        "image_urls": ["/static/images/webapp_1.png", "/static/images/webapp_2.png"]
+        },
+        {
+        "project_name": "WebApp Dashboard",
+        "id": "1",
+        "description": "Website that generates random quote on button click",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "site_link": "1",
+        "github_link": "https://github.com/robgentry999/github-treehouse-project-7/blob/main/treehouse-project-7/index.html",
+        "image_urls": "https://robgentry999.github.io/project-7/"
+        }
+
+    ]
+}

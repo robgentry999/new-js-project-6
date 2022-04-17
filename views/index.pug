@@ -1,0 +1,20 @@
+extends layout.pug
+
+block content
+
+  article.portfolio-intro
+
+    //- Portofilo header
+    h1 Rob Gentry's Portfolio
+
+    //- Portfolio description
+    p This site display's the coding work for Rob Gentry. He is a developer who has experience in JavaScript, CSS, HTML, and Python.
+
+  //- Portofolio project image with links
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+      each project in projects
+        .cell
+          a(href=`/projects/${project.id}`)
+            img.thumbnail(src=`${project.image_urls[0]}` alt=`${project.project_name} Thumbnail image`, style="width:300px")
+            h5=`${project.project_name}`

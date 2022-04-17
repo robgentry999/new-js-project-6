@@ -1,0 +1,12 @@
+extends layout.pug
+
+block content
+
+  nav.nav
+    a(href='/')
+      span &larr;
+      |  Back
+
+    //- Displays Error message for when a global error is triggered
+    h1= `An Error Occured: ${err.status}`
+    h2= `Please contact the site administror at help@fakeemail.com or use back to return to the previous page`
