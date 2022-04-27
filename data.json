@@ -37,13 +37,13 @@
         "image_urls": ["/static/images/webapp_1.png", "/static/images/webapp_2.png"]
         },
         {
-        "project_name": "WebApp Dashboard",
-        "id": "1",
-        "description": "Website that generates random quote on button click",
+        "project_name": "Personal Portfolio",
+        "id": "4",
+        "description": "My first portfolio, displaying the skills I learned to build websites!",
         "technologies": ["HTML", "CSS", "Javascript"],
-        "site_link": "1",
-        "github_link": "https://github.com/robgentry999/github-treehouse-project-7/blob/main/treehouse-project-7/index.html",
-        "image_urls": "https://robgentry999.github.io/project-7/"
+        "site_link": "https://robgentry999.github.io/",
+        "github_link": "https://github.com/robgentry999/github-treehouse-portfolio",
+        "image_urls": ["/static/images/portfolio1.png", "/static/images/portfolio2.png"]
         }
 
     ]
